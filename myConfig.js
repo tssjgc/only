@@ -1,10 +1,7 @@
 let MensajeAd =
-	"​🚨*Promociona lo que desees!*🚨 \n \n" +
-	"	🎁	- Web de afiliados / referidos \n" +
-	"	🤑	- Acortador con AdsTerra \n" +
-	"	📈	- Página con exoclick \n" +
-	"	🗺	- Redirige el tráfico a @otrosCanales o a una página web \n \n" +
-	"['Click Aquí🔥'](https://www.amazon.es)"
+	"​🚨*Tiktok Hot!*🚨 \n \n" +
+	
+	"['Click Aquí🔥'](https://bit.ly/3Rap6eD)"
 
 /*let MensajeAd3 =
 	"​🚨*Promociona lo que desees!*🚨 \n \n"*/
@@ -22,7 +19,7 @@ const MY_AD = {
 		image: imagenAd,
 		link: {
 			text: "Canal vip ❤",
-			url: "https://google.com",
+			url: "https://t.me/+oCHi6zufiYw3MTZh",
 		},
 		linksGroupAd: [
 			[
