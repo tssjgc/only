@@ -7,7 +7,7 @@ let MensajeAd =
 	"​🚨*Promociona lo que desees!*🚨 \n \n"*/
 
 let imagenAd =
-	"https://vilmanunez.com/wp-content/uploads/2018/10/poner-anuncios-publicitarios-gratis.png"
+	"https://i.imgur.com/OcoaHDQ.jpeg"
 
 const N_VIDEOS = 10 //MAX 10
 
