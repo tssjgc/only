@@ -7,7 +7,7 @@ let MensajeAd =
 	"​🚨*Promociona lo que desees!*🚨 \n \n"*/
 
 let imagenAd =
-	"https://i.imgur.com/OcoaHDQ.jpeg"
+	"https://i.imgur.com/XrjLOWu.png"
 
 const N_VIDEOS = 10 //MAX 10
 
