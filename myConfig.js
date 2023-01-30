@@ -1,7 +1,7 @@
 let MensajeAd =
 	"​🚨*Tiktok Hot!*🚨 \n \n" +
 	
-	"['Click Aquí🔥'](https://bit.ly/3Rap6eD)"
+	"['Click Aquí🔥'](https://bit.ly/3Rfpqcl)"
 
 /*let MensajeAd3 =
 	"​🚨*Promociona lo que desees!*🚨 \n \n"*/
