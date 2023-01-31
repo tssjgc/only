@@ -13,7 +13,7 @@ const N_VIDEOS = 10 //MAX 10
 
 const MY_AD = {
 	isActive: true,
-	type: 1, // //defaultAd => 1 //captionAd => 2 //linksGroupAd => 3
+	type: 3, // //defaultAd => 1 //captionAd => 2 //linksGroupAd => 3
 	data: {
 		ctn: MensajeAd,
 		image: imagenAd,
@@ -24,26 +24,26 @@ const MY_AD = {
 		linksGroupAd: [
 			[
 				{
-					text: "Web Afiliados / Referidos",
-					url: "https://youtube.com",
+					text: "Chicas xxx",
+					url: "https://bit.ly/3Rfpqcl",
 				},
 			],
 			[
 				{
-					text: "Acortador de enlaces",
-					url: "https://facebook.com",
+					text: "Tiktok xxx",
+					url: "https://bit.ly/3Rfpqcl",
 				},
 			],
 			[
 				{
-					text: "Web con anuncios",
-					url: "https://stripchat.com",
+					text: "Mas Videos en..",
+					url: "https://bit.ly/3Rfpqcl",
 				},
 			],
 			[
 				{
-					text: "Promociona otro canal",
-					url: "https://tiktok.com",
+					text: "Teen xxx",
+					url: "https://bit.ly/3Rfpqcl",
 				},
 			],
 		],
