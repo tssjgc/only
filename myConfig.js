@@ -9,7 +9,7 @@ let MensajeAd =
 let imagenAd =
 	"https://i.imgur.com/XrjLOWu.png"
 
-const N_VIDEOS = 10 //MAX 10
+const N_VIDEOS = 5 //MAX 10
 
 const MY_AD = {
 	isActive: true,
