@@ -24,8 +24,8 @@ const MY_AD = {
 		linksGroupAd: [
 			[
 				{
-					text: "Chicas xxx",
-					url: "https://bit.ly/3Rfpqcl",
+					text: "Big Ass Milf",
+					url: "https://t.me/+oCHi6zufiYw3MTZh",
 				},
 			],
 			[
